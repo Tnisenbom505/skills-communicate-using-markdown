@@ -5,3 +5,6 @@
 ``` javascript
 const user = "user1";
 ```
+- [x] paso 1
+- [x] paso 2
+- [ ] paso 3
